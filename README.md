@@ -52,3 +52,6 @@ dotnet ef database update --project HealthCare/HealthCare.csproj --startup-proje
 ```bash
 dotnet run --project HealthCare/HealthCare.csproj
 ```
+
+6. Explore APIs:
+   https://{{localhost:port}}/scalar/v1
